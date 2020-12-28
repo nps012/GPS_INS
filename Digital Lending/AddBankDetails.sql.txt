@@ -1,0 +1,2 @@
+insert into RDFAnchorBankDetails(anchorId,anchorName,bankName,accountNumber,IFSCCode,anchorAddr) values
+('RET111','Retailio','Icici bank','039305012243','ICIC0000393','Office No 317, Phii Platinum Square situated at Viman Nagar, SNO 30,3A3B, Next to Hyatt, Pune 411014');

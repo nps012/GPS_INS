@@ -1,0 +1,1 @@
+update WebsiteDLCustomerJourney set isdelete = 'Y' where urnumber = '10932211719092';
