@@ -1,0 +1,24 @@
+Reg: Crop change confirmation regarding your Loan Account No(s) + row1.account_no
+Dear Sir/ Madam, 
+Thanking you for banking with RBL Bank Limited. 
+We refer to your KCC loan account no(s) row1.account_no1  wherein, you have availed the loans for meeting expenses towards raising of declared crop(s). 
+As you aware that crop details for next Kharif, Rabi and / or annual crops are important to ascertain the limit change, if any as well as to insure the crops under Pradhan Mantri Fasal Bima Yojana (PMFBY). 
+In the said connection, you are requested to confirm the change in cropping pattern, if any, on the below mentioned address along with season wise crop details i.e. Kharif, Rabi and / or annual crops with their acreages, within 10 days of receipt of this letter. 
+
+RBL Bank Limited 
+
+C/o. Vikrant Speciality Services PVT.LTD
+8/9, Nand Ghansyam Industrial Primises,
+Off Mahakali Caves Road,
+Andheri East -400 093
+
+Please note that Bank shall not be liable for any financial loss caused to you due to non-declaration of the cropping pattern. 
+This is a system generated letter, and therefore requires no signature. 
+
+
+
+Letter for Crop details Confirmation
+
+Dt - TalendDate.getCurrentDate()
+To, 
+Mr/Mrs
